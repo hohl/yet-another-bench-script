@@ -730,7 +730,9 @@ if [ -z "$SKIP_IPERF" ]; then
 		"speedtest-nl-oum.hybula.net" "5201-5206" "Hybula" "The Netherlands (40G)" "IPv4|IPv6" \
 		"perf.astra.in.ua" "5202-5210" "Astra" "Lviv, UA (10G)" "IPv4|IPv6" \
 		"speedtest.uztelecom.uz" "5200-5207" "Uztelecom" "Tashkent, UZ (10G)" "IPv4|IPv6" \
-		"nyfiosspeed3.west.verizon.net" "5201" "Verizon" "NYC, NY, US (10G)" "IPv4" \
+		"speed.fiberby.dk" "9201-9240" "Fiberby" "Copenhagen, DK (10G)" "IPv4|IPv6" \
+		"speedtest.telecom.mu" "5201-5209" "Telecom Mauritus" "Port Louis, MU (1G)" "IPv4|IPv6" \
+		"nyfiosspeed3.west.verizon.net" "5201-5201" "Verizon" "NYC, NY, US (10G)" "IPv4" \
 		"nyc.speedtest.clouvider.net" "5200-5209" "Clouvider" "NYC, NY, US (10G)" "IPv4|IPv6" \
 		"dal.speedtest.clouvider.net" "5200-5209" "Clouvider" "Dallas, TX, US (10G)" "IPv4|IPv6" \
 		"la.speedtest.clouvider.net" "5200-5209" "Clouvider" "Los Angeles, CA, US (10G)" "IPv4|IPv6" \
