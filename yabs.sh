@@ -727,14 +727,14 @@ if [ -z "$SKIP_IPERF" ]; then
 		"lon.speedtest.clouvider.net" "5200-5209" "Clouvider" "London, UK (10G)" "IPv4|IPv6" \
 		"ping.online.net" "5200-5209" "Online.net" "Paris, FR (10G)" "IPv4" \
 		"ping6.online.net" "5200-5209" "Online.net" "Paris, FR (10G)" "IPv6" \
-		"speedtest-nl-oum.hybula.net" "5201-5206" "Hybula" "The Netherlands (40G)" "IPv4|IPv6" \
+		"speedtest.novoserve.com" "5201-5206" "NovoServe" "North Holland, NL (40G)" "IPv4|IPv6" \
 		"perf.astra.in.ua" "5203-5210" "Astra" "Lviv, UA (10G)" "IPv4|IPv6" \
 		"speed.fiberby.dk" "9201-9240" "Fiberby" "Copenhagen, DK (10G)" "IPv4|IPv6" \
 		"speedtest.uztelecom.uz" "5200-5207" "Uztelecom" "Tashkent, UZ (10G)" "IPv4|IPv6" \
-		"speedtest.telecom.mu" "5201-5209" "Telecom Mauritus" "Port Louis, MU (1G)" "IPv4|IPv6" \
-		"nyfiosspeed3.west.verizon.net" "5201-5201" "Verizon" "NYC, NY, US (10G)" "IPv4" \
-		"nyc.speedtest.clouvider.net" "5200-5209" "Clouvider" "NYC, NY, US (10G)" "IPv4|IPv6" \
-		"dal.speedtest.clouvider.net" "5200-5209" "Clouvider" "Dallas, TX, US (10G)" "IPv4|IPv6" \
+		"speedtest.telecom.mu" "5201-5209" "Telecom Mauritus" "Port Louis, MU (1G)" "IPv4" \
+		"nyfiosspeed3.west.verizon.net" "5201-5201" "Verizon" "New York City, US (10G)" "IPv4" \
+		"nyc.speedtest.clouvider.net" "5200-5209" "Clouvider" "New York City, US (10G)" "IPv4|IPv6" \
+		"dal.speedtest.clouvider.net" "5200-5209" "Clouvider" "Dallas, Texas, US (10G)" "IPv4|IPv6" \
 		"la.speedtest.clouvider.net" "5200-5209" "Clouvider" "Los Angeles, US (10G)" "IPv4|IPv6" \
 	)
 
